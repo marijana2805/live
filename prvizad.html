@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Prvi zadatak</title>
+<style>
+body {margin: 0; }
+
+.flex-container {  display: flex;
+                   background-color: #F5F5F5; 
+				   justify-content: space-around; }
+	
+
+.first { color: #098bdc;
+         font-size: 50px;
+         font-family: Arial;
+         padding: 20px; 
+		 padding-left: 40px;
+		 border-bottom: 2px solid #7eaacd;
+		 }
+
+.main { width: 60%; 
+        color: #7eaacd;
+		margin: 20px;
+}
+
+.main1 { border-bottom: 1px solid gray ;
+		 border-right: 1px solid  gray;
+		 background-color: white;
+		 margin: 20px;
+		 padding-top: 15px;
+		 padding-left: 15px;
+		 }
+
+.look { display: flex;}
+
+.look1 {border: 1px solid gray;
+        border-top: 2px solid blue; 
+		background-color: white;
+		padding: 10px;
+		margin: 20px;
+		width: 50%;
+        color: blue;		}
+		 
+.side { width: 40%;
+        color: #7eaacd;
+      }
+
+.edit { border: 1px solid gray;
+        background-color: white;
+		padding: 10px; 
+		margin: 40px;
+        color: blue;		}
+.current { border: 1px solid gray;
+           border-top: 2px solid blue; 
+		   background-color: white;
+		   margin: 40px;}
+
+.like { margin-left: 40px; }
+
+.hans { padding: 10px;
+        margin: 10px;
+		color: blue;}
+		
+.tab { padding: 5px;}
+
+.list { padding: 10px;
+        margin: 10px;
+		background-color: #F5F5F5;}
+
+.interest { padding: 10px;
+            margin: 10px;}
+			
+.loc { color: black;|
+       font-weight: bold;  }
+
+.right { margin-left: auto; }
+
+.gray { background-color: #F5F5F5;
+        border-bottom: solid 1px gray;
+		color: blue;
+		padding: 10px; }
+
+.screen { color: black;
+          background-color: #ffff66;
+		  padding: 10px;
+		  font-weight: bold;
+		  margin-left: 10px;
+		  margin-right: 10px; }
+
+.set { color: black;
+       margin-left: 10px;}
+.view { color: #7eaacd;
+        margin-left: 10px;}
+		
+.cool { color: #7eaacd;}
+
+.id { width: 200px; }
+.idd { width: 450px;}
+</style>
+</head>
+<body>
+<div> 
+<div class="first"> Elgg Demo Site </div>
+<div  class="flex-container"> 
+<!-- 1/2 -->
+<div class="main">
+   <div class="main1">
+   <div class="look">
+	<div class="id">
+      <img src="elgg.png" width="150" height="200">
+      <div><hr>Friends</hr></div>
+	  <hr><div>Friends of</div></hr>
+	  <hr></hr>
+    </div>
+	 
+     <div class="like idd">
+	 <div class="look">
+     <h2 class="hans">Hans de Zwart</h2>
+	 <div class="hans right">Edit details</div>
+	 </div>
+	 <div class="list"><span class="loc">Location:</span> amsterdam</div>
+	 <div class="interest"><span class="loc">Interests:</span> nintendo, open source, learning</div>
+	 <div class="list"><span class="loc">Website: </span>http://blog.hansdezwart.info </div>
+     </div>
+	</div>
+	
+	
+	 <div>
+	 <p><b style="color: black">About me</b></p>
+	 <p style="color: black">I am an e-learning consultant and <span class="cool">Moodle</span> evangelist at <span class="cool">Stores Learning</span>. I am a strong believer in open technology and I am paasionate about learning.</p>
+	 </div>
+   </div>
+ 
+   
+   
+  
+   <div class="look">
+   <div class="look1 look gray">
+   <div>Activity</div>
+   <div class="right">Edit</div>
+   </div>
+   <div class="look1 look gray">
+   <div>File widget</div>
+   <div class="right">Edit</div>
+   </div>
+   </div>
+</div>
+<!-- 2/2 -->
+<div class="side"> 
+   <div class="edit">Edit Page</div>
+   <div class="current">
+   <div class="look gray">
+   <div>Current status</div>
+   <div class="right">Edit</div>
+   </div>
+   <p class="screen">Creating Elgg screenshots</p>
+   <p class="set">set 21 min ago</p>
+   <button type="button" style="margin-left: 10px">clear status</button>
+   <p class="view">view history</p>
+   </div>
+   <div class="current">
+   <div class="look gray">
+   <div>Twitter</div>
+   <div class="right">Edit</div>
+   </div>
+   <p class="set">@<span class="cool">marceldeleeuwe</span> It is a pity you have no way of influencing how these sessions are set up. I do appreciate the honest reflection though! <span class="cool">6 days ago</span></p>
+   <p class="set">Makes me feel slightly too geeky. My next post will have to be about something more... I am working on it! <span class="cool">6 days ago</span></p>
+   <p class="set">Wrote a post about creating a #snapask widget for my #s60 smartphone: <span class="cool">http://tinyurl.com/dc736b 6 days ago<span class="cool"></p>
+   </div>   
+</div>
+</div>
+</div>
+</body>
+</html>
