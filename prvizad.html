@@ -4,7 +4,7 @@
 <style>
 body {margin: 0; }
 
-.flex-container {  display: flex;
+.container {  display: flex;
                    background-color: #F5F5F5; 
 				   justify-content: space-around; }
 	
@@ -95,12 +95,14 @@ body {margin: 0; }
 
 .id { width: 200px; }
 .idd { width: 450px;}
+
+.club { color: black;}
 </style>
 </head>
 <body>
 <div>
 <div class="first"> Elgg Demo Site </div>
-<div  class="flex-container">
+<div  class="container">
 <!-- 1/2 -->
 <div class="main">
    <div class="main1">
@@ -125,8 +127,12 @@ body {margin: 0; }
 
 
 	 <div>
-	 <p><b style="color: black">About me</b></p>
-	 <p style="color: black">I am an e-learning consultant and <span class="cool">Moodle</span> evangelist at <span class="cool">Stores Learning</span>. I am a strong believer in open technology and I am paasionate about learning.</p>
+	 <p><b class="club">About me</b></p>
+	 <p class="club">I am an e-learning consultant and
+         <span class="cool">Moodle</span>
+         evangelist at
+         <span class="cool">Stores Learning</span>.
+         I am a strong believer in open technology and I am paasionate about learning.</p>
 	 </div>
    </div>
 
@@ -151,7 +157,7 @@ body {margin: 0; }
    <div class="look gray">
    <div>Current status</div>
    <div class="right">Edit</div>
-       <button id="operator" class="top">-</button>
+       <button class="top">-</button>
    </div>
    <div id="demo" class="shine"><p class="screen">Creating Elgg screenshots</p>
    <p class="set">set 21 min ago</p>
@@ -165,9 +171,13 @@ body {margin: 0; }
        <button class="top">-</button>
    </div>
        <div class="shine">
-   <p class="set">@<span class="cool">marceldeleeuwe</span> It is a pity you have no way of influencing how these sessions are set up. I do appreciate the honest reflection though! <span class="cool">6 days ago</span></p>
-   <p class="set">Makes me feel slightly too geeky. My next post will have to be about something more... I am working on it! <span class="cool">6 days ago</span></p>
-   <p class="set">Wrote a post about creating a #snapask widget for my #s60 smartphone: <span class="cool">http://tinyurl.com/dc736b 6 days ago</span></p>
+   <p class="set">@<span class="cool">marceldeleeuwe</span>
+       It is a pity you have no way of influencing how these sessions are set up.
+       I do appreciate the honest reflection though! <span class="cool">6 days ago</span></p>
+   <p class="set">Makes me feel slightly too geeky. My next post will have to be about something more...
+       I am working on it! <span class="cool">6 days ago</span></p>
+   <p class="set">Wrote a post about creating a #snapask widget for my #s60 smartphone: <span class="cool">
+       http://tinyurl.com/dc736b 6 days ago</span></p>
        </div>>
    </div>
 </div>
