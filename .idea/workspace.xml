@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b474a73-f99c-4424-b96c-f6e2ca75f8f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elgg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prvizad.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prvizad.html" beforeDir="false" afterPath="$PROJECT_DIR$/prvizad.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +55,8 @@
       <option name="presentableId" value="Default" />
       <updated>1578488435630</updated>
       <workItem from="1578488446022" duration="500000" />
-      <workItem from="1578488964884" duration="1743000" />
+      <workItem from="1578488964884" duration="3202000" />
+      <workItem from="1578554675356" duration="428000" />
     </task>
     <servers />
   </component>
@@ -72,6 +68,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1578489168883" />
+    <state x="485" y="74" key="RollbackChangesDialog" timestamp="1578555111071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="485" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1578555111071" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1578491346017">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
