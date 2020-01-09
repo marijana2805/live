@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b474a73-f99c-4424-b96c-f6e2ca75f8f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prvizad.html" beforeDir="false" afterPath="$PROJECT_DIR$/prvizad.html" afterDir="false" />
-    </list>
+    <list default="true" id="4b474a73-f99c-4424-b96c-f6e2ca75f8f8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1W76l745gqjN37QBMP3qywKOhIt" />
@@ -63,11 +65,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="prva verzija" />
+    <option name="LAST_COMMIT_MESSAGE" value="prva verzija" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="462" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578489168883">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1578489168883" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1578555750744">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578555750744" />
     <state x="485" y="74" key="RollbackChangesDialog" timestamp="1578555111071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -76,5 +86,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578491346017" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1578555740579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578555740579" />
   </component>
 </project>
