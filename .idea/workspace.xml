@@ -2,20 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b474a73-f99c-4424-b96c-f6e2ca75f8f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elgg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prvizad.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prvizad.html" beforeDir="false" afterPath="$PROJECT_DIR$/prvizad.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1W76l745gqjN37QBMP3qywKOhIt" />
@@ -60,21 +68,61 @@
       <option name="presentableId" value="Default" />
       <updated>1578488435630</updated>
       <workItem from="1578488446022" duration="500000" />
-      <workItem from="1578488964884" duration="1743000" />
+      <workItem from="1578488964884" duration="3202000" />
+      <workItem from="1578554675356" duration="428000" />
     </task>
+    <task id="LOCAL-00001" summary="prva verzija">
+      <created>1578555895046</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578555895046</updated>
+    </task>
+    <task id="LOCAL-00002" summary="prva verzija">
+      <created>1578577866981</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578577866981</updated>
+    </task>
+    <task id="LOCAL-00003" summary="druga verzija">
+      <created>1578577933702</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578577933702</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="prva verzija" />
+    <MESSAGE value="druga verzija" />
+    <option name="LAST_COMMIT_MESSAGE" value="druga verzija" />
   </component>
   <component name="WindowStateProjectService">
     <state x="462" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578489168883">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1578489168883" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1578577932193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578577932193" />
+    <state x="485" y="74" key="RollbackChangesDialog" timestamp="1578555111071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="485" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1578555111071" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1578491346017">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578491346017" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1578577942734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578577942734" />
   </component>
 </project>

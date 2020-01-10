@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Prvi zadatak</title>
 <style>
 body {margin: 0; }
 
-.flex-container {  display: flex;
+.container {  display: flex;
                    background-color: #F5F5F5; 
 				   justify-content: space-around; }
 	
@@ -96,12 +95,14 @@ body {margin: 0; }
 
 .id { width: 200px; }
 .idd { width: 450px;}
+
+.club { color: black;}
 </style>
 </head>
 <body>
-<div> 
+<div>
 <div class="first"> Elgg Demo Site </div>
-<div  class="flex-container"> 
+<div  class="container">
 <!-- 1/2 -->
 <div class="main">
    <div class="main1">
@@ -112,7 +113,7 @@ body {margin: 0; }
 	  <hr><div>Friends of</div></hr>
 	  <hr></hr>
     </div>
-	 
+
      <div class="like idd">
 	 <div class="look">
      <h2 class="hans">Hans de Zwart</h2>
@@ -123,17 +124,21 @@ body {margin: 0; }
 	 <div class="list"><span class="loc">Website: </span>http://blog.hansdezwart.info </div>
      </div>
 	</div>
-	
-	
+
+
 	 <div>
-	 <p><b style="color: black">About me</b></p>
-	 <p style="color: black">I am an e-learning consultant and <span class="cool">Moodle</span> evangelist at <span class="cool">Stores Learning</span>. I am a strong believer in open technology and I am paasionate about learning.</p>
+	 <p><b class="club">About me</b></p>
+	 <p class="club">I am an e-learning consultant and
+         <span class="cool">Moodle</span>
+         evangelist at
+         <span class="cool">Stores Learning</span>.
+         I am a strong believer in open technology and I am paasionate about learning.</p>
 	 </div>
    </div>
- 
-   
-   
-  
+
+
+
+
    <div class="look">
    <div class="look1 look gray">
    <div>Activity</div>
@@ -146,29 +151,38 @@ body {margin: 0; }
    </div>
 </div>
 <!-- 2/2 -->
-<div class="side"> 
+<div class="side">
    <div class="edit">Edit Page</div>
    <div class="current">
    <div class="look gray">
    <div>Current status</div>
    <div class="right">Edit</div>
+       <button class="top">-</button>
    </div>
-   <p class="screen">Creating Elgg screenshots</p>
+   <div id="demo" class="shine"><p class="screen">Creating Elgg screenshots</p>
    <p class="set">set 21 min ago</p>
-   <button type="button" style="margin-left: 10px">clear status</button>
-   <p class="view">view history</p>
+   <button type="button" >clear status</button>
+       <p class="view">view history</p></div>
    </div>
    <div class="current">
    <div class="look gray">
    <div>Twitter</div>
    <div class="right">Edit</div>
+       <button class="top">-</button>
    </div>
-   <p class="set">@<span class="cool">marceldeleeuwe</span> It is a pity you have no way of influencing how these sessions are set up. I do appreciate the honest reflection though! <span class="cool">6 days ago</span></p>
-   <p class="set">Makes me feel slightly too geeky. My next post will have to be about something more... I am working on it! <span class="cool">6 days ago</span></p>
-   <p class="set">Wrote a post about creating a #snapask widget for my #s60 smartphone: <span class="cool">http://tinyurl.com/dc736b 6 days ago<span class="cool"></p>
-   </div>   
+       <div class="shine">
+   <p class="set">@<span class="cool">marceldeleeuwe</span>
+       It is a pity you have no way of influencing how these sessions are set up.
+       I do appreciate the honest reflection though! <span class="cool">6 days ago</span></p>
+   <p class="set">Makes me feel slightly too geeky. My next post will have to be about something more...
+       I am working on it! <span class="cool">6 days ago</span></p>
+   <p class="set">Wrote a post about creating a #snapask widget for my #s60 smartphone: <span class="cool">
+       http://tinyurl.com/dc736b 6 days ago</span></p>
+       </div>>
+   </div>
 </div>
 </div>
 </div>
 </body>
+    <script src="script.js"></script>
 </html>
