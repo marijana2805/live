@@ -70,6 +70,9 @@
       <workItem from="1578488446022" duration="500000" />
       <workItem from="1578488964884" duration="3202000" />
       <workItem from="1578554675356" duration="428000" />
+      <workItem from="1578644592297" duration="15038000" />
+      <workItem from="1578854661634" duration="13300000" />
+      <workItem from="1578901957950" duration="1006000" />
     </task>
     <task id="LOCAL-00001" summary="prva verzija">
       <created>1578555895046</created>
@@ -92,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578577933702</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="druga verzija">
+      <created>1578581263630</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578581263630</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,10 +118,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1578489168883" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1578577932193">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1578581261460">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578577932193" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578581261460" />
     <state x="485" y="74" key="RollbackChangesDialog" timestamp="1578555111071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -120,9 +130,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578491346017" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1578577942734">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1578581267907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578577942734" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578581267907" />
   </component>
 </project>
